@@ -47,4 +47,4 @@ I am an **AI & Data Science Engineer** focused on building practical, scalable A
 ### 🤝 Connect With Me
 *   📧 **Email:** karthickrajayuvaraj@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/karthickrajayuvaraj](https://linkedin.com) *(Update link details if necessary)*
-*   🌐 **Portfolio:** Available on request / Deployment link
+*   🌐 **Portfolio:** https://portfolio-puce-theta-37.vercel.app/
